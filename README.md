@@ -1,4 +1,4 @@
-# 📱 Exercícios Flutter 1
+# 📱 Exercícios de Flutter
 Este repositório contém exercícios práticos de Flutter para o aprendizado de desenvolvimento de aplicativos móveis utilizando Dart e o framework Flutter.
 
 # 📂 Estrutura do Projeto
