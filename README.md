@@ -6,6 +6,8 @@ exercicio_dart/ → Exercícios em Dart puro, sem interface gráfica.
 
 exercicios_flutter1/ → Exercícios introdutórios ao Flutter organizados em módulos.
 
+exercicio2_flutter/ → Exercícios de rotas e navegação.
+
 # 🛠️ Tecnologias utilizadas
 Linguagem: Dart
 
