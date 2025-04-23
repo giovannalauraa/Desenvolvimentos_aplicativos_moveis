@@ -8,7 +8,7 @@ exercicios_flutter1/ → Exercícios introdutórios ao Flutter organizados em m�
 
 exercicio2_flutter/ → Exercícios de rotas e navegação.
 
-exercicio_flutter/  → Exercícios de widgets, input e dialog,
+exercicio_flutter4/  → Exercícios de widgets, input e dialog,
 buttons e material widgets
 
 # 🛠️ Tecnologias utilizadas
