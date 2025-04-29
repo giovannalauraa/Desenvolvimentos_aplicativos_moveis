@@ -11,7 +11,7 @@ exercicio2_flutter/ → Exercícios de rotas e navegação.
 exercicio_flutter4/  → Exercícios de widgets, input e dialog,
 buttons e material widgets
 
-exercicio_flutter4/  → Exercícios de criação de Layouts com Flutter
+exercicio5_flutter/  → Exercícios de criação de Layouts com Flutter
 
 # 🛠️ Tecnologias utilizadas
 Linguagem: Dart
